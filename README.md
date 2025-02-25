@@ -1,8 +1,5 @@
 # LEETCODE-Arrays-1524
 **Explanation:**
-
-This code counts the number of subarrays with an odd sum in a given array `arr`.
-
 **Key Idea:**
 
 - The code maintains two counters:
