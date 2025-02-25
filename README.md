@@ -1,5 +1,6 @@
 # LEETCODE-Arrays-1524
 **Explanation:**
+
 **Key Idea:**
 
 - The code maintains two counters:
